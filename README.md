@@ -11,6 +11,7 @@ repos are private you weirdos
 <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/python/python-original.svg" alt="python" width="26px" height="26px"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=kandreta)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
