@@ -15,6 +15,9 @@ repos are private you weirdos
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kandreta&theme=dark&show_icons=true&hide=contribs,prs&count_private=true)
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kandreta&layout=compact)
 
 
 <!--
