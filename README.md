@@ -1,5 +1,5 @@
 ### KANDRETA
-#Repos are private you weirdos
+Repos are private you weirdos
 <!--
 **kandreta/kandreta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
