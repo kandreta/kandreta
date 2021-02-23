@@ -1,5 +1,5 @@
 ### KANDRETA
-Repos are private you weirdos
+repos are private you weirdos
 
 ---
 
